@@ -1,13 +1,12 @@
-<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
+# MoniBank
 
-<hr>
+Rápida descrição do objetivo de fazer esse projeto
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
+| :placard: Vitrine.Dev |   https://cursos.alura.com.br/vitrinedev/sulevansampaio  |
+| -------------  | --- |
+| :sparkles: Nome        | **MoniBank**
+| :label: Tecnologias | html, javascript
+| :rocket: URL         | https://sulevansampaio.github.io/monibank-aula/
 
-## Tecnologias utilizadas durante o curso
-* JavaScript
-
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://github.com/sulevansampaio/monibank-aula/blob/main/img/finalizado.png#vitrinedev)
